@@ -85,6 +85,13 @@ a {
     padding: 1.5rem 3rem;
     cursor: pointer;
 }
+.form input[type="submit"]:hover{
+    background-color: yellowgreen;
+    color: rgb(2, 59, 2);
+    font-size: 20px;
+    padding: 22px;
+    
+}
 
 .legal {
     background-color: #202e4e;
