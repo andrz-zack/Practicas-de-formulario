@@ -86,5 +86,16 @@ a {
     cursor: pointer;
 }
 
+.legal {
+    background-color: #202e4e;
+    border-radius: 5px;
+    padding: 2rem;
+    width: 87%;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 24px;
+    color: #8f9ab2;
+}
+
 
     
