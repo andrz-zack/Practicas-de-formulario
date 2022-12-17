@@ -19,3 +19,72 @@ a {
     color: #f089a0;
     text-decoration: none;
 }
+
+.create {
+    width: 100%;
+    max-width: 650px;
+    min-width: 329px;
+    border-radius: 15px;
+    padding: 3rem;
+    
+}
+
+.login { 
+    text-align: right;
+    font-size: 17px;
+}
+
+.content {
+    width: 65%;
+    margin: 3rem auto;
+}
+
+.content h1 {
+    font-size: 27px;
+    text-align: center;
+}
+
+.content p {
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.form {
+    margin-top: 2rem;
+}
+
+.form label {
+    font-weight: bold;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 0.3rem;
+}
+
+.form input {
+    display: block;
+    border: none;
+    width: 100%;
+}
+
+.form input:not([type="submit"]){
+    background-color: transparent;
+    border: 1px solid #495e8d;
+    border-radius: 5px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    font-size: 16px;
+    
+}
+
+.form input[type="submit"] {
+    border-radius: 5px;
+    background-color: #c24e67;
+    color: white;
+    font-weight: bold;
+    padding: 1.5rem 3rem;
+    cursor: pointer;
+}
+
+
+    
